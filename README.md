@@ -4,8 +4,7 @@ A full-stack, real-time chat-enabled task management system with user authentica
 
 ---
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1IihQ5McVn8wfAlaD_pATHTV6KTPV8ewq/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
-[Watch the demo video]([https://example.com/your-video.mp4](https://drive.google.com/file/d/1IihQ5McVn8wfAlaD_pATHTV6KTPV8ewq/view?usp=sharing))
+
 
 ## ✨ Features
 
