@@ -34,7 +34,7 @@ export default function Dashboard() {
     enabled: !!token,
   });
 
-  const userlogin = user? JSON.parse(user) : null;
+  const userlogin = user ? (typeof user === 'object' ? user : JSON.parse(user)) : null;
 
 
 
