@@ -52,18 +52,22 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/arjunsen1999/task-management-system.git
    cd [task-management-system]
 
-# Install backend dependencies
-cd backend
-npm install
+  # Install backend dependencies
+  cd backend
+  
+  npm install
 
-# Install frontend dependencies
-cd ../frontend
-npm install
+  # Install frontend dependencies
+  cd ../frontend
+  
+  npm install
 
-# Start the backend server
-cd backend
-npm run dev
-
-# Start the frontend (in a new terminal)
-cd frontend
-npm run dev
+  # Start the backend server
+  cd backend
+  
+  npm run dev
+  
+  # Start the frontend (in a new terminal)
+  cd frontend
+  
+  npm run dev
