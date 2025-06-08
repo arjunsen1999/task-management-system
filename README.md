@@ -34,3 +34,20 @@ A full-stack, real-time chat-enabled task management system with user authentica
 ---
 
 
+## 📋 Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v16 or higher)
+- [MongoDB](https://www.mongodb.com/) (local or cloud instance like MongoDB Atlas)
+- [Git](https://git-scm.com/) for version control
+- A Google OAuth client ID (if using Google OAuth)
+
+---
+
+## 🛠️ Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/arjunsen1999/task-management-system.git
+   cd [task-management-system]
